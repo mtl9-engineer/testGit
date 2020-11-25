@@ -15,3 +15,6 @@ public class secondActivity extends AppCompatActivity {
 class class1{
 
 }
+class class2{
+    
+}
