@@ -11,4 +11,9 @@ public class thirdActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_third);
     }
+
+
+}
+class class4{
+
 }
